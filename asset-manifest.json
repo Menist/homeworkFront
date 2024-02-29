@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/homeworkFront/static/css/main.ec08ae03.css",
+    "main.js": "/homeworkFront/static/js/main.005d593b.js",
+    "static/js/787.25eaef86.chunk.js": "/homeworkFront/static/js/787.25eaef86.chunk.js",
+    "static/media/Rectangle.png": "/homeworkFront/static/media/Rectangle.2a71526180da1dc06c7d.png",
+    "index.html": "/homeworkFront/index.html",
+    "main.ec08ae03.css.map": "/homeworkFront/static/css/main.ec08ae03.css.map",
+    "main.005d593b.js.map": "/homeworkFront/static/js/main.005d593b.js.map",
+    "787.25eaef86.chunk.js.map": "/homeworkFront/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec08ae03.css",
+    "static/js/main.005d593b.js"
+  ]
+}
